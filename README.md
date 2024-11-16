@@ -1,5 +1,5 @@
 # Password Generator Application 🔒
-<img src="" width="500">
+<img src="Screenshot 2024-11-16 101310.png" width="500">
 
 ## 🛠️ Tech Stack Used
 
